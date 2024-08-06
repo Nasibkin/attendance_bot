@@ -1,0 +1,11 @@
+token_1.py
+# Ignore Python bytecode files
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+token_1.py
+.DS_Store
+attendance_backup*
+venv
+attendance*
